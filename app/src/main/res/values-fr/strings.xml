@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gestionnaire de contacts</string>
+    <string name="toFr">En français</string>
+    <string name="toEn">En anglais</string>
+    <string name="explore">Parcourir les contacts</string>
+    <string name="addContact">Ajouter contact</string>
+
+    <string name="newContact">Nouveau contact</string>
+    <string name="modifyContact">Modifier contact</string>
+    <string name="name">Nom</string>
+    <string name="phone">Telephone</string>
+    <string name="email">Email</string>
+
+    <string name="call">Appeler</string>
+    <string name="send_mail">Envoyer mail</string>
+    <string name="delete">Supprimer</string>
+</resources>

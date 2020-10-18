@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="toFr">To French</string>
+    <string name="toEn">To English</string>
+    <string name="explore">Explore contacts</string>
+    <string name="addContact">Add contact</string>
+
+    <string name="newContact">New Contact</string>
+    <string name="modifyContact">Modify Contact</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+
+    <string name="call">Call</string>
+    <string name="send_mail">Send mail</string>
+    <string name="delete">Delete</string>
+</resources>
